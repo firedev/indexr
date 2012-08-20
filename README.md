@@ -19,5 +19,5 @@ You can change some options like sorting and thumbnail size by editing the file 
 Did we mention it creates thumbnails for images too? It uses GD or ImageMagick for thumbnails, one of which you should have installed.
 
 
-http://firedev.com/images/indexrList.png
+![](http://firedev.com/images/indexrList.png)
 
