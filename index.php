@@ -3,7 +3,7 @@
  * Indexr 1.2
  * Fancy directory lister with thumbnails
  *
- * imagevuex.com
+ * firedev.com
  */
 
 /**
@@ -610,7 +610,7 @@ if (isset($fileName)):
 			 <?php echo count($content); ?> files in folder
 		</p>
 		<p class="pagemenu">
-			<a href="http://imagevuex.com/blog/indexr" title="Indexr Home">indexr <span>1.2</span></a>
+			<a href="http://firedev.com" title="Indexr Home">indexr <span>1.2</span></a>
 		</p>
 	</body>
 </html>
